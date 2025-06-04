@@ -1,12 +1,18 @@
-*{
-  padding:0;
-  margin:0;
+* {
+  padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
-body{
+
+body {
   min-height: 100vh;
+  background-image: url('https://images.pexels.com/photos/32224494/pexels-photo-32224494/free-photo-of-vintage-double-doors-in-porto-portugal.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
-a{
+
+a {
   text-decoration: none;
-  color:inherit;
+  color: inherit;
 }
