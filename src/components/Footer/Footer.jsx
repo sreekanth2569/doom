@@ -10,7 +10,7 @@ const Footer = () => {
           <div className='footer-content-left'>
             <img src={assets.logo} alt='' />
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti
+              Lorem ipsum dohlor sit amet consectetur adipisicing elit. Deleniti
               dicta eum numquam? Maxime beatae numquam ab ipsam, cumque natus
               nulla corporis fugiat, animi, aut cum! Dolores libero odit culpa
               eligendi!
